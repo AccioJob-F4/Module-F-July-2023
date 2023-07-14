@@ -13,6 +13,67 @@ React/Redux Interview Prep : [Github](https://github.com/sudheerj/reactjs-interv
 Redux Interview Questions : [Link](https://www.interviewbit.com/redux-interview-questions/#redux-mcq-questions)
 
 $$
+{\Huge \color{orange}-- LEARNING -- RESOURCES --}
+$$
+
+<hr/>
+
+$$
+{\color{green}-- Javascript --}
+$$
+
+<hr/>
+
+MDN Doc: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript ) <br/>
+DOM Manipulation: [JavaScript DOM Manipulation – Full Course for Beginners](https://www.youtube.com/watch?v=5fb2aPlgoys&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+$$
+{\color{green}-- CSS/SASS --}
+$$
+
+<hr/>
+
+Doc: [https://sass-lang.com/documentation/](https://sass-lang.com/documentation/) <br/>
+Crash Course: [Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtube.com/watch?v=_a5j7KoflTs&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+$$
+{\color{green}-- REACT-JS --}
+$$
+
+<hr/>
+
+Doc: [https://beta.reactjs.org/](https://beta.reactjs.org/) <br/>
+Tutorial: [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- SVELTE --}
+$$
+
+<hr/>
+
+Doc: [https://svelte.dev/docs](https://svelte.dev/docs) <br/>
+Tutorial: [Svelte Crash Course](https://www.youtube.com/watch?v=3TVy6GdtNuQ&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- TYPESCRIPT --}
+$$
+
+<hr/>
+
+Doc: [https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) <br/>
+Tutorial: [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- REDUX --}
+$$
+
+<hr/>
+
+Doc: [https://redux.js.org/](https://redux.js.org/) <br/>
+Tutorial: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+
+$$
 {\Huge \color{orange}-- VSCode -- Extension --}
 $$
 
