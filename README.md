@@ -13,6 +13,67 @@ React/Redux Interview Prep : [Github](https://github.com/sudheerj/reactjs-interv
 Redux Interview Questions : [Link](https://www.interviewbit.com/redux-interview-questions/#redux-mcq-questions)
 
 $$
+{\Huge \color{orange}-- LEARNING -- RESOURCES --}
+$$
+
+<hr/>
+
+$$
+{\color{green}-- Javascript --}
+$$
+
+<hr/>
+
+MDN Doc: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript ) <br/>
+DOM Manipulation: [JavaScript DOM Manipulation – Full Course for Beginners](https://www.youtube.com/watch?v=5fb2aPlgoys&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+$$
+{\color{green}-- CSS/SASS --}
+$$
+
+<hr/>
+
+Doc: [https://sass-lang.com/documentation/](https://sass-lang.com/documentation/) <br/>
+Crash Course: [Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtube.com/watch?v=_a5j7KoflTs&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+$$
+{\color{green}-- REACT-JS --}
+$$
+
+<hr/>
+
+Doc: [https://beta.reactjs.org/](https://beta.reactjs.org/) <br/>
+Tutorial: [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- SVELTE --}
+$$
+
+<hr/>
+
+Doc: [https://svelte.dev/docs](https://svelte.dev/docs) <br/>
+Tutorial: [Svelte Crash Course](https://www.youtube.com/watch?v=3TVy6GdtNuQ&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- TYPESCRIPT --}
+$$
+
+<hr/>
+
+Doc: [https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) <br/>
+Tutorial: [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs&ab_channel=TraversyMedia) <br/> <br/>
+
+$$
+{\color{green}-- REDUX --}
+$$
+
+<hr/>
+
+Doc: [https://redux.js.org/](https://redux.js.org/) <br/>
+Tutorial: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw&ab_channel=freeCodeCamp.org) <br/> <br/>
+
+
+$$
 {\Huge \color{orange}-- VSCode -- Extension --}
 $$
 
@@ -117,3 +178,26 @@ Prop Drilling : [Article](https://kentcdodds.com/blog/prop-drilling)
 Redux : [Article](https://blog.logrocket.com/understanding-redux-tutorial-examples/)
 
 Firebase : [GFG Link](https://www.geeksforgeeks.org/how-to-use-firestore-database-in-reactjs/)
+
+$$
+{\Huge \color{orange}-- Recommended -- Reading --}
+$$
+
+<hr/>
+
+[How to do a Code-Review](https://github.com/google/eng-practices/blob/master/review/reviewer/index.md)
+
+[Single Responsibility Principle (Clean Code Concepts)](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
+
+[Separation of Concerns (Clean Code Concepts)](https://www.youtube.com/watch?v=0ZNIQOO2sfA)
+
+[Robert Martin book (Clean Code Concepts)](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=2ZN9JMXJIL52R&keywords=clean+code+by+robert+c+martin&qid=1647863998&sprefix=clean+code%2Caps%2C358&sr=8-1)
+
+[Learning JavaScript Design Patterns (Design Pattern)](https://www.patterns.dev/posts/classic-design-patterns/#observerpatternjavascript)
+
+[Observer vs Pub-Sub pattern | HackerNoon (Design Pattern)](https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c)
+
+[Flux architecture (Design Pattern)](https://youtu.be/nYkdrAPrdcw)
+
+[State Machines (Design Pattern)](https://www.youtube.com/watch?v=RqTxtOXcv8Y)
+
