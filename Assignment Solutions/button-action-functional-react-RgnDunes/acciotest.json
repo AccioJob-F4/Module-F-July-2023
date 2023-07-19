@@ -1,0 +1,4 @@
+{
+    "testRepo": "button-action-functional-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}

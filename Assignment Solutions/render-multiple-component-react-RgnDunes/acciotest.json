@@ -1,0 +1,4 @@
+{
+    "testRepo": "render-multiple-component-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
